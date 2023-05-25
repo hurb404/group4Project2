@@ -7,7 +7,7 @@ public class ElementRiddle {
 
     public String getRiddle(String inputElement) {
         if (inputElement.equals(element)) {
-            return "I stride with power and grace, fear not my artificial face. Seek my image where you rest, in the place you know best.";
+            return "In nature's green embrace I hide, thrice in life, not in pride. Seek my visage in the leafy tide, a cybernetic beast resides inside.";
         }
         return "Element not found";
     }
